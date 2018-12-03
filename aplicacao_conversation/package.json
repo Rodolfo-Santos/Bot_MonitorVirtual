@@ -1,0 +1,15 @@
+{
+  "name": "aplicacao_conversation",
+  "version": "1.0.0",
+  "description": "Um codigo para se comunicar com o serviço conversation",
+  "main": "aplicacao_conversation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rodolfo Santos",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.1.6",
+    "watson-developer-cloud": "^3.11.0"
+  }
+}
